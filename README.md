@@ -5,9 +5,8 @@
 📍 Chennai, India &nbsp; | &nbsp; 📞 +91 9994974546 &nbsp; | &nbsp; 📧 marimuthunandhagopal@gmail.com
 </p>
 
-<p align="center">
 <a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=flat-square&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
 </a>
 <a href="https://github.com/Nandhagopal22">
   <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github" />
