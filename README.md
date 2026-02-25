@@ -1,107 +1,83 @@
-<!-- Animated Header -->
-<h1 align="center">
-  Hi 👋, I'm Nandhagopal M
-</h1>
-
-<h3 align="center">
-Azure DevOps Engineer | Terraform | CI/CD | Automation
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Azure+DevOps+Engineer;Terraform+%7C+CI%2FCD+%7C+Docker;Infrastructure+as+Code+Specialist;Cloud+Automation+Expert&center=true&width=500&height=45">
-</p>
-
----
-## 🚀 About Me
-
-I’m an Azure DevOps Engineer with 2+ years of hands-on experience building and automating secure, scalable cloud infrastructure for enterprise .NET and Angular applications.
-
-🔹 Architected multi-stage Azure DevOps pipelines across Dev, UAT, QA, and Production  
-🔹 Automated infrastructure provisioning using Terraform & Infrastructure as Code  
-🔹 Reduced deployment time by **60%** through CI/CD automation  
-🔹 Optimized Azure cloud spending by **25%** via right-sizing and reserved capacity strategies  
-🔹 Maintained **99.9% production uptime** across Linux-based systems  
-🔹 Implemented zero-downtime deployments and automated rollback mechanisms  
-
-I focus on reliability, automation, and continuous improvement — building systems that are scalable, cost-efficient, and production-ready.
----
-## 📌 Featured Projects
+# Nandhagopal M
+Azure DevOps Engineer | Microsoft Azure | Terraform | CI/CD Automation
 
 ---
 
-### 🧪 Laboratory Information Management System (LIMS)  ⭐ (Primary Project)
+## Professional Overview
 
-🔹 Multi-tenant production system  
-🔹 14-month enterprise deployment  
+Azure DevOps Engineer with 2+ years of experience designing, automating, and maintaining Microsoft Azure cloud infrastructure and CI/CD pipelines for enterprise-grade .NET and Angular applications.
 
-- Built multi-stage Azure DevOps Pipelines (Build → UAT → QA → Production)
-- Automated database migrations & environment-specific deployments using PowerShell
-- Implemented automated smoke testing and validation gates
+Specialized in Infrastructure as Code, release automation, production monitoring, and multi-environment deployment orchestration across Dev, UAT, QA, and Production environments.
+
+- 60% reduction in deployment time through CI/CD automation  
+- 25% cloud cost optimization using right-sizing and reserved capacity strategies  
+- 99.9% uptime across Linux-based production systems  
+- Zero-downtime release implementation with automated rollback mechanisms  
+
+---
+
+## Core Competencies
+
+**Cloud Platform**  
+Microsoft Azure (VMs, App Services, Azure SQL, VNets, Application Gateway, Azure Monitor, RBAC, Key Vault)
+
+**CI/CD & Infrastructure as Code**  
+Azure DevOps Pipelines (Classic & YAML), Terraform, ARM Templates, Bicep, Git, GitHub
+
+**Containerization & Orchestration**  
+Docker, Azure Container Registry (ACR), Kubernetes (basic), Azure Container Instances
+
+**Monitoring & Observability**  
+Azure Monitor, Log Analytics, Application Insights, Grafana, Prometheus
+
+**Scripting & Automation**  
+PowerShell (Advanced), Bash (Intermediate)
+
+---
+
+## Featured Projects
+
+### Laboratory Information Management System (LIMS)
+Enterprise multi-tenant production system
+
+- Designed multi-stage Azure DevOps pipelines (Build → UAT → QA → Production)
+- Automated database migrations and environment-based deployments using PowerShell
+- Implemented validation gates and smoke testing before production promotion
 - Integrated Azure Monitor metrics with Grafana dashboards
-- Reduced deployment failures through automated rollback mechanisms
-- 🚀 Result: Increased release frequency and improved deployment stability
+- Reduced deployment failures and improved release frequency
 
 ---
 
-### 🏥 Hospital Compliance System
-
-🔹 Production system serving 5,000+ daily users  
+### Hospital Compliance System
+Production system serving 5,000+ daily users
 
 - Built CI/CD pipelines for .NET Web API and Angular applications
-- Implemented Blue-Green deployments using Azure App Service slots
-- Automated database migrations and configuration updates
-- Reduced release cycle time from 4 hours to 45 minutes
-- 🚀 Result: Enabled shift from monthly to weekly releases
+- Implemented blue-green deployment using Azure App Service deployment slots
+- Automated configuration updates and database migrations
+- Reduced release cycle from 4 hours to 45 minutes
 
 ---
 
-### ⚙️ Terraform Infrastructure Automation (POC → Production)
+### Terraform Infrastructure Automation
+Azure Infrastructure as Code (POC → Production)
 
-🔹 Full Azure environment automation  
-
-- Designed modular Terraform configurations (VNet, Subnet, NSG, VM, App Gateway, Azure SQL)
-- Configured remote state backend in Azure Blob Storage
-- Integrated Terraform into Azure DevOps with plan/apply workflows
-- Reduced environment provisioning time from 2–3 days to under 1 hour
-- 🚀 Result: Standardized Dev/UAT/Prod infrastructure automation
-----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nandhagopal22&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandhagopal22&theme=tokyonight" />
-</p>
-
----
-## 📫 Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:marimuthunandhagopal@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-</a>
-</p>
+- Designed modular Terraform configurations for VNets, NSGs, VMs, App Gateway, and Azure SQL
+- Implemented remote state management in Azure Blob Storage
+- Integrated Terraform workflows into Azure DevOps with approval gates
+- Reduced full environment provisioning time from 2–3 days to under 1 hour
 
 ---
 
-<p align="center">
-🔥 Building scalable Azure infrastructure | Automating everything 🔥
-</p>
+## Current Focus
 
-<!--
-**Nandhagopal22/Nandhagopal22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Advanced Azure DevOps architecture patterns  
+- Infrastructure automation best practices  
+- Production-grade monitoring & alerting strategies  
+- Improving deployment resilience and system reliability  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+
+LinkedIn: https://linkedin.com/in/yourprofile  
+Email: marimuthunandhagopal@gmail.com  
